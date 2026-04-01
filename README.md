@@ -6,23 +6,23 @@
 
 ###
 
-<p align="left">Meu nome é Igor, um simples aspirante a dev.</p>
+<p align="left">My name is Igor, a simple aspiring dev.</p>
 
 ###
 
-<h2 align="left">• 𝒮𝑜𝒷𝓇𝑒 𝓂𝒾𝓂 🎩</h2>
+<h2 align="left">• 𝒜𝒷𝑜𝓊𝓉 𝓂𝑒 🎩</h2>
 
 ###
 
-<p align="left">🎨 Eu faço desenhos digitais.<br>📚 Estudando para ser um dev.<br>🎯 Buscando fluência em inglês.<br>🖼️ Já estudei muito sobre design.</p>
+<p align="left">🎨 I create digital drawings.<br>📚 Studying to become a dev.<br>🎯 Working towards English fluency.<br>🖼️ I have studied a lot about design.</p>
 
 ###
 
-<h2 align="left">• 𝒞𝑜𝓂𝓅𝑒𝓉ê𝓃𝒸𝒾𝒶𝓈 🎩</h2>
+<h2 align="left">• 𝒮𝓀𝒾𝓁𝓁𝓈 🎩</h2>
 
 ###
 
-<h4 align="left">𝐿𝒾𝓃𝑔𝓊𝒶𝑔𝑒𝓃𝓈 💻</h4>
+<h4 align="left">𝐿𝒶𝓃𝑔𝓊𝒶𝑔𝑒𝓈 💻</h4>
 
 ###
 
@@ -38,7 +38,7 @@
 
 ###
 
-<h4 align="left">𝐹𝑒𝓇𝓇𝒶𝓂𝑒𝓃𝓉𝒶𝓈 🔧</h4>
+<h4 align="left">𝒯𝑜𝑜𝓁𝓈 🔧</h4>
 
 ###
 
