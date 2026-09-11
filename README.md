@@ -1,4 +1,4 @@
-<img align="right" height="375" src="https://i.pinimg.com/736x/2e/6d/b5/2e6db56e176cdb76b901f82bf8ca8b66.jpg" />
+<img align="right" height="350" src="https://i.pinimg.com/736x/2e/6d/b5/2e6db56e176cdb76b901f82bf8ca8b66.jpg" />
 
 <h1 align="left">Buonasera 👋</h1>
 
