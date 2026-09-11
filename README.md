@@ -11,8 +11,6 @@
   </a>
 </div>
 
-<br>
-
 <p align="left">Hi! I'm Igor, a passionate developer combining Front-End engineering with intuitive UX/UI design. I love bridging the gap between aesthetics and functionality, continuously learning new technologies to build seamless digital experiences.</p>
 
 <h2 align="left">• About Me 🎩</h2>
