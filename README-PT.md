@@ -4,10 +4,10 @@
 
 <!-- Botões de Troca de Idioma -->
 <p align="left">
-  <a href="./README-PT.md">
+  <a href="https://github.com/IgorVarani/IgorVarani/blob/main/README-PT.md">
     <img src="https://img.shields.io/badge/Vers%C3%A3o-Portugu%C3%AAs-green?style=for-the-badge&logo=brazil&logoColor=white" alt="Versão em Português" />
   </a>
-  <a href="./README.md">
+  <a href="https://github.com/IgorVarani">
     <img src="https://img.shields.io/badge/English-Version-blue?style=for-the-badge&logo=united-states&logoColor=white" alt="English Version" />
   </a>
 </p>
