@@ -18,7 +18,7 @@
 <p align="left">
   🎨 <b>Digital Artist:</b> Creating illustrations and visual concepts in my free time.<br>
   🚀 <b>Continuous Learner:</b> Evolving every day as a Full-Stack developer.<br>
-  🌐 <b>Global Vision:</b> Actively improving my English for international environments.<br>
+  🌐 <b>Global Vision:</b> Actively improving my English for global environments.<br>
   🖼️ <b>Design Enthusiast:</b> Deeply interested in UI/UX, typography, and visual identity.
 </p>
 
